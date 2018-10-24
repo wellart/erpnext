@@ -12,4 +12,3 @@ erpnext/docs/current
 *.swo
 __pycache__
 *~
-.idea/
